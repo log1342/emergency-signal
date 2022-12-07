@@ -9,3 +9,4 @@ input.onButtonPressed(Button.B, function () {
     music.playMelody("A C5 A C5 A C5 A C5 ", 201)
 })
 radio.setGroup(125)
+basic.showIcon(IconNames.Yes)
